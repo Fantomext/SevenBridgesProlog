@@ -4,7 +4,7 @@ The Seven Bridges of Königsberg is a historically notable problem in mathematic
   
 This program checks whether a graph has an Euler path
 
-How to start programm?
+How to start program?
 
 Just write bridges (edges) and start predicat "start_euler".
 
